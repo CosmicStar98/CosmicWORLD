@@ -8,6 +8,6 @@ Check the releases page for downloads``***
   <img src="https://i.ibb.co/S7CxrZ4/Readme-Image-1.png">
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/42bDtvY/Readme-Image-3.png>
+  <img src="https://i.ibb.co/42bDtvY/Readme-Image-3.png">
 </p>
 
