@@ -1,13 +1,4 @@
-# CosmicWORLD Client
-***``A patched version of the BonziWORLD chrome app. intended for use with my server.
+# CosmicWORLD Client & Server
+***``A patched version of the BonziWORLD chrome web app and mobile apk. intended for use with my server.
 Check the releases page for downloads``***
-<p align="center">
-  <img src="https://i.ibb.co/LxLxBbT/Readme-Image-2.png">
-</p>
-<p align="center">
-  <img src="https://i.ibb.co/S7CxrZ4/Readme-Image-1.png">
-</p>
-<p align="center">
-  <img src="https://i.ibb.co/42bDtvY/Readme-Image-3.png">
-</p>
 
